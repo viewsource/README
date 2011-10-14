@@ -1,0 +1,25 @@
+{
+  "name":             "John Doe"
+, "email":            "john.doe@gmail.com"
+, "website":          "http://example.com"
+, "company":          "Acme Co."
+, "location":         "1 Infinite Loop Cupertino, CA"
+, "ids": {
+      "github":       "johndoe"
+    , "twitter":      "jdoe"
+    , "facebook":     "john-doe"
+    , "googleplus":   ""
+  }
+, "professional": {
+      "status":       "employed"
+    , "forHire":      false
+    , "skills":       ["HTML", "CSS", "JavaScript"]
+    , "bio":          "I like hacking..."
+  }
+, "personal": {
+      "status":       "single"
+    , "gender":       "male"
+    , "dob":          "1985-06-19"
+    , "bio":          "I like hiking..."
+  }
+}
